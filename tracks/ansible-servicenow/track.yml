@@ -15,8 +15,8 @@ tags:
 - ' cmdb'
 owner: redhat-isv
 developers:
-- colin@redhat.com
-- kholmes@redhat.com
+- Colin
+- Kevin
 private: false
 published: true
 show_timer: true
