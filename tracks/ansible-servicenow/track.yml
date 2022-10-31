@@ -1,0 +1,23 @@
+slug: servicenow-automation
+id: ctugekitp2kv
+title: Kev ServiceNow automation
+teaser: Explore base functionality provided by the ServiceNow collection for Ansible
+  Automation Platform
+description: Ansible Automation Platform brings certified integrations to some of
+  the most popular IT services. Learn how to leverage a supported integration with
+  ServiceNow in order to implement closed loop automation through incident and CMDB
+  management to ensure your organizations source of truth remains trustworthy.
+icon: ""
+level: beginner
+tags:
+- itsm
+- ' servicenow'
+- ' cmdb'
+owner: redhat-isv
+developers:
+- colin@redhat.com
+- kholmes@redhat.com
+private: false
+published: true
+show_timer: true
+checksum: "7224065880710291382"
